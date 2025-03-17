@@ -8,3 +8,5 @@ A Python-based queue management system that categorizes and prioritizes patient 
 -Real-time Status & Notifications: Provides queue updates via hospital displays, SMS, or email alerts.
 
 -Admin Dashboard for Hospital Staff: Allows efficient management of appointments, patient flow, and doctor assignments.
+
+-Technology Stack: Built using Python with Flask/Django, SQLite/PostgreSQL/MySQL for data storage, Celery for task scheduling, and Twilio/Firebase for notifications.
